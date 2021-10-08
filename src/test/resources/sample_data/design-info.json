@@ -1,0 +1,11 @@
+{
+  "sampleData": {
+    "d152755d-3735-448e-ac2c-9e33d1326e9e": {
+      "payload": "sample_data/java_1.dwl",
+      "vars-Movie": "sample_data/java_2.dwl"
+    },
+    "255e8f3e-8399-4301-89aa-7587995d557a": {
+      "payload": "sample_data/java.dwl"
+    }
+  }
+}
